@@ -1,2 +1,2 @@
 # FirstMobileGame
- Mobile game devloped with Godot game engine
+ Mobile game developed with Godot game engine
